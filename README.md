@@ -1,1 +1,1 @@
-This repository shows my exercises from the Udacity course "Tensorflow free course" on image recognition tasks.
+This repository shows two exercises from the Udacity course "Tensorflow free course" on image recognition tasks. One builds a CNN from skretch, the other uses transfer learning.
